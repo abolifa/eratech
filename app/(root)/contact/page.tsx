@@ -79,15 +79,15 @@ export default function ContactPage() {
           <div className="flex items-center gap-4 mb-4">
             <Phone className="text-blue-600 w-5 h-5" />
             <Link
-              href="tel:+218912345678"
+              href="tel:+218924563439"
               className="text-gray-700 hover:text-blue-600 transition"
             >
-              +218 91 234 5678
+              +218 92 456 3439
             </Link>
           </div>
           <div className="flex items-center gap-4">
             <MapPin className="text-blue-600 w-5 h-5" />
-            <p className="text-gray-700">Tripoli, Libya</p>
+            <p className="text-gray-700">Misurata, Libya</p>
           </div>
           <div className="mt-8 text-sm text-gray-500">
             We’re available Sunday–Thursday, 9:00 AM to 6:00 PM.
